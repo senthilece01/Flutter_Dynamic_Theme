@@ -8,9 +8,7 @@ Dynamically change the theme of your app at compile time
 
 ## 📸 Screenshot :
 
-![Simulator Screen Shot - iPhone Xs Max - 2019-11-28 at 12 14 06](https://user-images.githubusercontent.com/10756609/69821766-92db6680-122a-11ea-88c1-0bb6934c5139.png)
-
-![Simulator Screen Shot - iPhone Xs Max - 2019-11-28 at 12 14 04](https://user-images.githubusercontent.com/10756609/69821741-86efa480-122a-11ea-84ea-eada5f5ab697.png)
+![Github Screenshot](https://user-images.githubusercontent.com/10756609/69823160-2c584780-122e-11ea-834b-96149c158023.png)
 
 ## Requirements :
 

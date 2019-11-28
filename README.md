@@ -1,4 +1,4 @@
-# Flutter Dynamic Theme (DarK and Light Mode):
+# Flutter Dynamic Theme (Dark and Light Mode):
 
 Dynamically change the theme of your app at compile time
 
